@@ -42,10 +42,16 @@ A 𝉅 B = {x|x ∈ A Λ x ∈ B}
 A 𝈱 B = {1,2,3,4,5,6,8}
 A 𝈱 B = {x|x ∈ A V x ∈ B}
 ```
-* Difference
+* Difference (for understanding A − B)
 ```
 A \ B = {x|x ∈ A Λ x ∉ B}
 A \ B = {1,3,5}
+```
+* Symmetric Difference
+```
+A Δ B = {}
+A Δ B = {x|x ∈ A ⊕ x ∈ B}
+A Δ B = A \ B 𝈱 B \ A
 ```
 ### Logical Operators
 * Conjunction (And)
@@ -55,5 +61,9 @@ A \ B = {1,3,5}
 * Disjunction (Or)
 ```
 V
+```
+* XOR
+```
+⊕
 ```
 
