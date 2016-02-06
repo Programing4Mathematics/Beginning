@@ -85,6 +85,11 @@ The set of everything we care about in the context of our problem.
 ```
 U = {1,2,3,4,5,6,7,8,9,10}
 ```
+### Complement
+```
+Aᶜ = U \ A
+Aᶜ = {6,7,8,9,10}
+```
 ### Logical Operators
 * Conjunction (And)
 ```
