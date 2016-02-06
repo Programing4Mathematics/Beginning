@@ -53,6 +53,17 @@ A Δ B = {1,3,5,6,8}
 A Δ B = {x|x ∈ A ⊕ x ∈ B}
 A Δ B = A \ B 𝈱 B \ A
 ```
+### Subsets
+Null(∅) set is subset of any set
+```
+A = {1,2,3,4,5}
+C = {1,3,5,7}
+D = {1,2,3}
+D ⊆ A
+A ⊇ D
+C ⊈ A
+∅ ⊆ A
+```
 ### Logical Operators
 * Conjunction (And)
 ```
