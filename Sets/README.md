@@ -49,7 +49,7 @@ A \ B = {1,3,5}
 ```
 * Symmetric Difference
 ```
-A Δ B = {}
+A Δ B = {1,3,5,6,8}
 A Δ B = {x|x ∈ A ⊕ x ∈ B}
 A Δ B = A \ B 𝈱 B \ A
 ```
