@@ -35,20 +35,24 @@ B = {2,4,6,8}
 * Intersection
 ```
 A 𝉅 B = {2,4}
+A 𝉅 B = {x|x ∈ A Λ x ∈ B}
 ```
 * Union
 ```
 A 𝈱 B = {1,2,3,4,5,6,8}
-```
-* Conjunction
-```
-Λ
-```
-* Disjunction
-```
-V
+A 𝈱 B = {x|x ∈ A V x ∈ B}
 ```
 * Difference
 ```
 A \ B = {x|x ∈ A Λ x ∉ B}
 ```
+### Logical Operators
+* Conjunction (And)
+```
+Λ
+```
+* Disjunction (Or)
+```
+V
+```
+
