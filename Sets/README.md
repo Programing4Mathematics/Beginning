@@ -81,7 +81,7 @@ then
 A = F
 ```
 ### Universal Set
-The set of everything <br>we care about in the context of our problem.
+The set of everything we care about in the context of our problem.
 ```
 U = {1,2,3,4,5,6,7,8,9,10}
 ```
