@@ -24,12 +24,31 @@ A = {x|x is integer between 1 and 5}
 * A is a set with members 1,2,3,4,5
 ```
 A = {1,2,3,4,5}
+B = {2,4,6,8}
 ```
 * 3 is member of set A
 ```
 3 Ⲉ A 
 ```
-* Combining sets
-```
+### Combining sets
 
+* Intersection
+```
+A 𝉅 B = {2,4}
+```
+* Union
+```
+A 𝈱 B = {1,2,3,4,5,6,8}
+```
+* Conjunction
+```
+Λ
+```
+* Disjunction
+```
+V
+```
+* Difference
+```
+A \ B = {x|x ∈ A Λ x ∉ B}
 ```
