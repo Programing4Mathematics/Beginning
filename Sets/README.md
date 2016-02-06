@@ -45,6 +45,7 @@ A 𝈱 B = {x|x ∈ A V x ∈ B}
 * Difference
 ```
 A \ B = {x|x ∈ A Λ x ∉ B}
+A \ B = {1,3,5}
 ```
 ### Logical Operators
 * Conjunction (And)
