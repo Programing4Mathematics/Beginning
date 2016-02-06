@@ -54,15 +54,36 @@ A Δ B = {x|x ∈ A ⊕ x ∈ B}
 A Δ B = A \ B 𝈱 B \ A
 ```
 ### Subsets
-Null(∅) set is subset of any set
+#### Trivial subsets
+* Null(∅) set is subset of any set
+* Every set is subset of its own
 ```
 A = {1,2,3,4,5}
 C = {1,3,5,7}
 D = {1,2,3}
+
+if
+x ∈ D ⇒ x ∈ A
+then
 D ⊆ A
 A ⊇ D
+
 C ⊈ A
 ∅ ⊆ A
+A ⊆ A
+```
+### Equality
+```
+if
+A ⊆ F
+F ⊆ A
+then
+A = F
+```
+### Universal Set
+The set of everything <br>we care about in the context of our problem.
+```
+U = {1,2,3,4,5,6,7,8,9,10}
 ```
 ### Logical Operators
 * Conjunction (And)
