@@ -16,11 +16,11 @@
 ### Phases of Problem Solving
 1. Entry Phase
 
-..* What do I know?
+  * What do I know?
 
-..* What do I want?
+  * What do I want?
 
-..* What can I introduce?
+  * What can I introduce?
 
 2. Attack
 
