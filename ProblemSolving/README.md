@@ -14,6 +14,7 @@
 * based on <b>knowledge</b> of the range of ways that diverse students learn mathematics
 
 ### Phases of Problem Solving
+
 1. Entry Phase
 
   * What do I know?
@@ -33,10 +34,30 @@
     * Write in mathematical notation
     * Think outside box
 
-2. Attack
+2. Attack Phase
 
-3. Review
+  * Brute Force
 
+    * Four color theorem
+
+  * Clever Strategy
+
+    * Pattern recognition
+
+3. Review Phase
+
+  * Check
+
+    * Make sure your solution actually works.
+
+  * Reflect
+    * What were the big realizations?
+
+  * Extend
+    * Generalization
+
+  * Caution!
+    * Patterns can be misleading
 
 ### Resources
 * Book
