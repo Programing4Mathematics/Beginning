@@ -110,10 +110,19 @@ Aᶜ = {6,7,8,9,10}
 ℚ = {...,-1,-1/2,1,2/3,2,...}
 ```
 * Irrational numbers
+An irrational number is any real number that cannot be expressed as a ratio of integers.
 ```
-π ≈ 3.14159265358...
+π ≈ 3.14159265358... ≈ 22/7
 e ≈ 2.71828182845...
 √2 ≈ 1.41421356237...
+```
+* Real numbers
+```
+ℝ = ℚ (Rational numbers) 𝈱 Irrational numbers
+```
+* Complex numbers
+```
+ℂ = a + b √1
 ```
 ### Logical Operators
 * Conjunction (And)
