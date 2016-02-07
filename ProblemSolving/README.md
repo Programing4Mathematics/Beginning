@@ -18,10 +18,17 @@
 
   * What do I know?
 
+    * Reading the question
+    * Past experience
+
   * What do I want?
-
+    * Write the problem in your own words.
+    * Watch out for possible ambiguities.
+    * Don't make assumption
   * What can I introduce?
-
+    * Make a diagram
+    * Write in mathematical notation
+    * Think outside box
 2. Attack
 
 3. Review
